@@ -1,4 +1,4 @@
-package Modul1;
+package Tugas_1;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
