@@ -142,7 +142,8 @@ public class Modul3 extends javax.swing.JFrame {
             }
         });
 
-        LFoto.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(0, 0, 0)));
+        LFoto.setForeground(new java.awt.Color(255, 255, 255));
+        LFoto.setBorder(javax.swing.BorderFactory.createLineBorder(new java.awt.Color(255, 255, 255)));
 
         label14.setText("/");
 
